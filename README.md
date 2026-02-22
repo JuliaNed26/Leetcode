@@ -4,20 +4,24 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph Theory
 |  |
@@ -27,4 +31,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
