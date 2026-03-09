@@ -6,6 +6,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
