@@ -14,6 +14,7 @@
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/JuliaNed26/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/JuliaNed26/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/JuliaNed26/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
@@ -65,4 +69,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
