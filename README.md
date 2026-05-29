@@ -17,6 +17,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/JuliaNed26/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
@@ -39,6 +40,7 @@
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/JuliaNed26/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JuliaNed26/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +104,5 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
