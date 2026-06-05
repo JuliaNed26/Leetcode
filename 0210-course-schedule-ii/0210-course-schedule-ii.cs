@@ -13,12 +13,14 @@ public class Solution {
                                                 .Where(pair => pair.value == 0)
                                                 .Select(pair => pair.idx)
                                                 .ToList();
-        var result = new List<int>(numCourses);
+        var result = new int[numCourses];
+        var index = 0;
         var queue = new Queue<int>(nodesWithZeroInDegree);
         while(queue.Count != 0)
         {
             var curNode = queue.Dequeue();
-            result.Add(curNode);
+            result[index] = curNode;
+            index++;
             foreach(var neighbour in graph[curNode])
             {
                 inDegrees[neighbour]--;
@@ -29,6 +31,6 @@ public class Solution {
             }
         }
 
-        return result.Count == numCourses ? result.ToArray() : [];
+        return index == numCourses ? result : [];
     }
 }
