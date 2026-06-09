@@ -9,6 +9,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
 | [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JuliaNed26/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/JuliaNed26/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Tree
 |  |
 | ------- |
@@ -114,4 +117,8 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
