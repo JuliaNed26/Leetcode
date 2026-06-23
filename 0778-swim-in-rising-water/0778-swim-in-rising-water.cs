@@ -4,13 +4,21 @@ public class Solution {
         var firstCellDepth = grid[0][0];
         var depths = grid.SelectMany(g => g.Where(x => x >= firstCellDepth))
                         .Distinct()
-                        .OrderBy(x => x);
+                        .OrderBy(x => x)
+                        .ToList();;
         var stack = new Stack<(int y, int x)>();
         var result = int.MaxValue;
         var resultFound = false;
-        foreach(var depth in depths)
+
+        var l = 0;
+        int r = depths.Count - 1;
+        while(l <= r)
         {
+            var mid = l + (r - l) / 2;
+            var depth = depths[mid];
+
             var visited = new bool[count * count];
+            var reachable = false;
             stack.Push((0,0));
             while(stack.Count != 0)
             {
@@ -22,8 +30,10 @@ public class Solution {
                 }
                 if(x == count - 1 && y == count - 1)
                 {
-                    resultFound = true;
                     result = depth;
+                    r = mid - 1;
+                    reachable = true;
+                    continue;
                 }
                 var pointsToPush = new List<(int y, int x)>()
                 {
@@ -42,10 +52,9 @@ public class Solution {
 
                 visited[flattened] = true;
             }
-
-            if(resultFound)
+            if(!reachable)
             {
-                break;
+                l = mid + 1;
             }
         }
 
