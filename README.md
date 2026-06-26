@@ -8,6 +8,7 @@
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/JuliaNed26/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/JuliaNed26/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
