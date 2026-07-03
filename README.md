@@ -11,6 +11,7 @@
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/JuliaNed26/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Depth-First Search
@@ -39,6 +40,7 @@
 | [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
