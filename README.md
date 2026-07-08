@@ -33,6 +33,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/JuliaNed26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
@@ -126,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 ## Sorting
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
