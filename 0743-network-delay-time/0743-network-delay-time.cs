@@ -14,13 +14,10 @@ public class Solution {
         for(int i = 1; i <= n; i++)
         {
             graph[i][i] = 0;
-            graph[0][i] = -1;
-            graph[i][0] = -1;
         }
 
         for(int i = 1; i <= n; i++)
         {
-            var curIteration = CopyPreviousResult(graph);
             for(int y = 1; y <= n; y++)
             {
                 if(y == i)
@@ -38,22 +35,13 @@ public class Solution {
                     var curTime = graph[y][i] + graph[i][x];
                     if(curTime < graph[y][x])
                     {
-                        curIteration[y][x] = curTime;
+                        graph[y][x] = curTime;
                     }
                 }
             }
-
-            graph = curIteration;
         }
 
-        var maxSignalTime = graph[k].Max();
+        var maxSignalTime = graph[k].Skip(1).Max();
         return maxSignalTime == MAX_TIME_VALUE ? -1 : maxSignalTime;
     }
-
-    private int[][] CopyPreviousResult(int[][] previousArr) =>
-        previousArr.Select(arr => {
-                var copiedArr = new int[arr.Length];
-                arr.CopyTo(copiedArr, 0);
-                return copiedArr;
-            }).ToArray();
 }
