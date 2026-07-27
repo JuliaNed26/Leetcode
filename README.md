@@ -15,6 +15,7 @@
 | [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -81,6 +85,7 @@
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +101,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/JuliaNed26/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +111,7 @@
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/JuliaNed26/Leetcode/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
