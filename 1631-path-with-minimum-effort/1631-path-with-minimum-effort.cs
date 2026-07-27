@@ -14,18 +14,10 @@ public class Solution {
         var efforts = Enumerable.Range(0, height)
                                 .Select(_ => Enumerable.Repeat(int.MaxValue, width).ToArray())
                                 .ToArray();
-        var visited = Enumerable.Range(0, height)
-                                .Select(_ => Enumerable.Repeat(false, width).ToArray())
-                                .ToArray();
         while(pq.Count > 0)
         {
             pq.TryDequeue(out var curCell, out var curHeight);
-            if(visited[curCell.y][curCell.x])
-            {
-                continue;
-            }
 
-            visited[curCell.y][curCell.x] = true;
             if(curCell.x == width - 1 && curCell.y == height - 1)
             {
                 return curHeight;
