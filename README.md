@@ -154,4 +154,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
