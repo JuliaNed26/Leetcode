@@ -93,6 +93,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -105,6 +106,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/JuliaNed26/Leetcode/tree/master/0743-network-delay-time) |
@@ -119,6 +121,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Shortest Path
 |  |
@@ -140,6 +143,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
 |  |
@@ -158,4 +162,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
