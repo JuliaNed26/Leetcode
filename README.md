@@ -134,6 +134,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/JuliaNed26/Leetcode/tree/master/0062-unique-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/JuliaNed26/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JuliaNed26/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## String
 |  |
@@ -141,6 +142,7 @@
 | [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
+| [1143-longest-common-subsequence](https://github.com/JuliaNed26/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JuliaNed26/Leetcode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/JuliaNed26/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
