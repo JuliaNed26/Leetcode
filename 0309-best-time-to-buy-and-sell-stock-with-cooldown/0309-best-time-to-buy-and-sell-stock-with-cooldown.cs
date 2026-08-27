@@ -4,7 +4,6 @@ public class Solution {
         var prevRes = new int[3]; // selling skip, buying skip, selling
         for(int i = prices.Length - 1; i >= 0; i--)
         {
-            Console.WriteLine($"sell = {prevRes[0]} buy = {prevRes[1]} prev sell = {prevRes[2]}");
             // buying allowed
             var tempBuy = Math.Max(
                 prevRes[1], // skip
