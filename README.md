@@ -10,6 +10,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JuliaNed26/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0518-coin-change-ii](https://github.com/JuliaNed26/Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/JuliaNed26/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/JuliaNed26/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/JuliaNed26/Leetcode/tree/master/0062-unique-paths) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JuliaNed26/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0518-coin-change-ii](https://github.com/JuliaNed26/Leetcode/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/JuliaNed26/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JuliaNed26/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -183,4 +185,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/JuliaNed26/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/JuliaNed26/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/JuliaNed26/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
