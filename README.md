@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JuliaNed26/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JuliaNed26/Leetcode/tree/master/0130-surrounded-regions) |
@@ -153,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/JuliaNed26/Leetcode/tree/master/0518-coin-change-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
