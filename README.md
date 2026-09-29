@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JuliaNed26/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -177,6 +178,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
