@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/JuliaNed26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JuliaNed26/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JuliaNed26/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JuliaNed26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JuliaNed26/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JuliaNed26/Leetcode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/JuliaNed26/Leetcode/tree/master/0097-interleaving-string) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JuliaNed26/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/JuliaNed26/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
