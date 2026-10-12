@@ -7,6 +7,10 @@ public class Solution {
             {
                 return false;
             }
+            if(maxSteps >= nums.Length - 1)
+            {
+                return true;
+            }
 
             maxSteps = Math.Max(maxSteps, i + nums[i]);
         }
