@@ -1,88 +1,121 @@
 public class Solution {
-    public IList<IList<int>> PacificAtlantic(int[][] heights) 
-    {
-        var toPacific = GetReachPacific();
-        var toAtlantic = GetReachAtlantic();
+    public IList<IList<int>> PacificAtlantic(int[][] heights) {
+        int[][] oceans = Enumerable.Range(0, heights.Length)
+                                    .Select(_ => new int[heights[0].Length])
+                                    .ToArray();
 
-        List<IList<int>> result = [];
-        foreach(var point in toPacific.Intersect(toAtlantic))
+        PacificBFS(heights, oceans);
+        AtlanticBFS(heights, oceans);
+        var result = new List<IList<int>>();
+        for(var i = 0; i < oceans.Length; i++)
         {
-            result.Add([point.y, point.x]);
+            for(var j = 0; j < oceans[0].Length; j++)
+            {
+                if(oceans[i][j] == 2)
+                {
+                    result.Add(new List<int>() {i, j});
+                }
+            }
         }
 
         return result;
-
-        HashSet<(int x, int y)> GetReachPacific()
-        {
-            Queue<(int x, int y)> queue = [];
-
-            for(int i = 0; i < heights.Length; i++) 
-            {
-                queue.Enqueue((0, i));
-            }
-
-            for(int i = 0; i < heights[0].Length; i++) 
-            {
-                queue.Enqueue((i, 0));
-            }
-
-            return Bfs(queue, heights);
-        }
-
-        HashSet<(int x, int y)> GetReachAtlantic()
-        {
-            Queue<(int x, int y)> queue = [];
-
-            for(int i = 0; i < heights.Length; i++) 
-            {
-                queue.Enqueue((heights[0].Length - 1, i));
-            }
-
-            for(int i = 0; i < heights[0].Length; i++) 
-            {
-                queue.Enqueue((i, heights.Length - 1));
-            }
-
-            return Bfs(queue, heights);
-        }
     }
 
-    private HashSet<(int x, int y)> Bfs(Queue<(int x, int y)> queue, int[][] heights)
+    private void PacificBFS(int[][] heights, int[][] result)
     {
-        var visited = new HashSet<(int x, int y)>();
-
-        while(queue.Count > 0)
+        var queue = new Queue<(int x, int y)>();
+        for(int i = 0 ; i < heights.Length; i++)
         {
-            var curPoint = queue.Dequeue();
-            if(visited.Contains(curPoint))
+            queue.Enqueue((0, i));
+        }
+        for(int i = 0 ; i < heights[0].Length; i++)
+        {
+            queue.Enqueue((i, 0));
+        }
+
+        while(queue.Count != 0)
+        {
+            (int x, int y) = queue.Dequeue();
+            if(x >= heights[0].Length || y >= heights.Length || result[y][x] == 1)
             {
                 continue;
             }
-
-            if(curPoint.x > 0 
-                && heights[curPoint.y][curPoint.x - 1] >= heights[curPoint.y][curPoint.x])
+            
+            result[y][x] = 1;
+            if(y < heights.Length - 1 && heights[y + 1][x] >= heights[y][x])
             {
-                queue.Enqueue((curPoint.x - 1, curPoint.y));
+                queue.Enqueue((x, y + 1));
             }
-            if(curPoint.y > 0 
-                && heights[curPoint.y - 1][curPoint.x] >= heights[curPoint.y][curPoint.x])
+            if(x < heights[0].Length - 1 && heights[y][x + 1] >= heights[y][x])
             {
-                queue.Enqueue((curPoint.x, curPoint.y - 1));
+                queue.Enqueue((x + 1, y));
             }
-            if(curPoint.x < heights[0].Length - 1
-                && heights[curPoint.y][curPoint.x + 1] >= heights[curPoint.y][curPoint.x])
+            if(x >= 1 && heights[y][x - 1] >= heights[y][x])
             {
-                queue.Enqueue((curPoint.x + 1, curPoint.y));
+                queue.Enqueue((x - 1, y));
             }
-            if(curPoint.y < heights.Length - 1
-                && heights[curPoint.y + 1][curPoint.x] >= heights[curPoint.y][curPoint.x])
+            if(y >= 1 && heights[y - 1][x] >= heights[y][x])
             {
-                queue.Enqueue((curPoint.x, curPoint.y + 1));
+                queue.Enqueue((x, y - 1));
             }
-
-            visited.Add(curPoint);
         }
 
-        return visited;
+        foreach(var res in result)
+        {
+            foreach(var cell in res)
+            {
+                Console.Write(cell + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    private void AtlanticBFS(int[][] heights, int[][] result)
+    {
+        var queue = new Queue<(int x, int y)>();
+        var visited = new bool[heights[0].Length * heights.Length];
+
+        for(int i = 0 ; i < heights.Length; i++)
+        {
+            queue.Enqueue((heights[0].Length - 1, i));
+        }
+        for(int i = 0 ; i < heights[0].Length; i++)
+        {
+            queue.Enqueue((i, heights.Length - 1));
+        }
+
+        while(queue.Count != 0)
+        {
+            (int x, int y) = queue.Dequeue();
+            if(x < 0 || y >= heights.Length || visited[FlattenIdx(x, y)])
+            {
+                continue;
+            }
+            
+            visited[FlattenIdx(x, y)] = true;
+            result[y][x] += 1;
+
+            if(y >= 1 && heights[y - 1][x] >= heights[y][x])
+            {
+                queue.Enqueue((x, y - 1));
+            }
+            if(x >= 1 && heights[y][x - 1] >= heights[y][x])
+            {
+                queue.Enqueue((x - 1, y));
+            }
+            if(x < heights[0].Length - 1 && heights[y][x + 1] >= heights[y][x])
+            {
+                queue.Enqueue((x + 1, y));
+            }
+            if(y < heights.Length - 1 && heights[y + 1][x] >= heights[y][x])
+            {
+                queue.Enqueue((x, y + 1));
+            }
+        }
+
+        int FlattenIdx(int x, int y)
+        {
+            return y * heights[0].Length + x;
+        }
     }
 }
