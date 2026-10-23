@@ -39,6 +39,7 @@
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1462-course-schedule-iv](https://github.com/JuliaNed26/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -55,6 +56,7 @@
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/JuliaNed26/Leetcode/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/JuliaNed26/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/JuliaNed26/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -78,12 +80,14 @@
 | [0753-cracking-the-safe](https://github.com/JuliaNed26/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuliaNed26/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JuliaNed26/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/JuliaNed26/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JuliaNed26/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JuliaNed26/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JuliaNed26/Leetcode/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/JuliaNed26/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Union-Find
 |  |
 | ------- |
