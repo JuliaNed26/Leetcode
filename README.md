@@ -225,4 +225,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JuliaNed26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
