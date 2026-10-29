@@ -158,6 +158,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/JuliaNed26/Leetcode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JuliaNed26/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
@@ -230,6 +232,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
