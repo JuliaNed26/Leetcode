@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JuliaNed26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JuliaNed26/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JuliaNed26/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/JuliaNed26/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/JuliaNed26/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/JuliaNed26/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0435-non-overlapping-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -184,6 +187,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
+| [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -198,6 +202,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/JuliaNed26/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JuliaNed26/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
 |  |
@@ -237,6 +242,7 @@
 | [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/JuliaNed26/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/JuliaNed26/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
