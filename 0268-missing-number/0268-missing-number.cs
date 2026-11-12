@@ -1,11 +1,15 @@
 public class Solution {
     public int MissingNumber(int[] nums) {
-        int sum = Enumerable.Range(0, nums.Length + 1).Sum();
-        foreach(var num in nums)
+        // we have duplicates in nums and indexes, but one number is not duplicated
+        // it will be our result.
+        // since with XOR operation number cancels itself - a XOR a = 0, we are using it
+        // and missing number will not be cancelled
+        var res = nums.Length;
+        for(int i = 0; i < nums.Length; i++)
         {
-            sum -= num;
+            res ^= i ^ nums[i];
         }
 
-        return sum;
+        return res;
     }
 }
