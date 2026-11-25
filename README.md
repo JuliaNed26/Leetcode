@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/JuliaNed26/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JuliaNed26/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/JuliaNed26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JuliaNed26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/JuliaNed26/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/JuliaNed26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JuliaNed26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
@@ -190,6 +192,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/JuliaNed26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/JuliaNed26/Leetcode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/JuliaNed26/Leetcode/tree/master/0268-missing-number) |
 ## Dijkstra's Algorithm
