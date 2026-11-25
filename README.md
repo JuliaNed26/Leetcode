@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/JuliaNed26/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/JuliaNed26/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JuliaNed26/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JuliaNed26/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JuliaNed26/Leetcode/tree/master/0057-insert-interval) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JuliaNed26/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/JuliaNed26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JuliaNed26/Leetcode/tree/master/0200-number-of-islands) |
@@ -251,5 +253,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
