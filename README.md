@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JuliaNed26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/JuliaNed26/Leetcode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/JuliaNed26/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
@@ -258,4 +259,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/JuliaNed26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/JuliaNed26/Leetcode/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/JuliaNed26/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
